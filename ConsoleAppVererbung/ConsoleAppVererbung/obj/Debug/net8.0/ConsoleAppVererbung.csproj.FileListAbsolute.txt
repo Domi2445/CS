@@ -1,0 +1,14 @@
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\bin\Debug\net8.0\ConsoleAppVererbung.exe
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\bin\Debug\net8.0\ConsoleAppVererbung.deps.json
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\bin\Debug\net8.0\ConsoleAppVererbung.runtimeconfig.json
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\bin\Debug\net8.0\ConsoleAppVererbung.dll
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\bin\Debug\net8.0\ConsoleAppVererbung.pdb
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\obj\Debug\net8.0\ConsoleAppVererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\obj\Debug\net8.0\ConsoleAppVererbung.AssemblyInfoInputs.cache
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\obj\Debug\net8.0\ConsoleAppVererbung.AssemblyInfo.cs
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\obj\Debug\net8.0\ConsoleAppVererbung.csproj.CoreCompileInputs.cache
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\obj\Debug\net8.0\ConsoleAppVererbung.dll
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\obj\Debug\net8.0\refint\ConsoleAppVererbung.dll
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\obj\Debug\net8.0\ConsoleAppVererbung.pdb
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\obj\Debug\net8.0\ConsoleAppVererbung.genruntimeconfig.cache
+C:\Users\AustDominik\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\ConsoleAppVererbung\ConsoleAppVererbung\obj\Debug\net8.0\ref\ConsoleAppVererbung.dll
