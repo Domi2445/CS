@@ -1,0 +1,32 @@
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\bin\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.exe
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\bin\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.deps.json
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\bin\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.runtimeconfig.json
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\bin\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.dll
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\bin\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.pdb
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.FormFaehre.resources
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.csproj.GenerateResource.cache
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.AssemblyInfoInputs.cache
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.AssemblyInfo.cs
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.csproj.CoreCompileInputs.cache
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.dll
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\refint\WinFormsAppFaehre2025Vorlage.dll
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.pdb
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.genruntimeconfig.cache
+C:\Users\katri\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\01C#\4.2Vererbung\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\ref\WinFormsAppFaehre2025Vorlage.dll
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\bin\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.exe
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\bin\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.deps.json
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\bin\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.runtimeconfig.json
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\bin\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.dll
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\bin\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.pdb
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.FormFaehre.resources
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.csproj.GenerateResource.cache
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.GeneratedMSBuildEditorConfig.editorconfig
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.AssemblyInfoInputs.cache
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.AssemblyInfo.cs
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.csproj.CoreCompileInputs.cache
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.dll
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\refint\WinFormsAppFaehre2025Vorlage.dll
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.pdb
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\WinFormsAppFaehre2025Vorlage.genruntimeconfig.cache
+H:\WinFormsAppFaehre2025Vorlage\WinFormsAppFaehre2025Vorlage\obj\Debug\net8.0-windows\ref\WinFormsAppFaehre2025Vorlage.dll
